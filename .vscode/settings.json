@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "__split_buffer": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
