@@ -4,6 +4,7 @@
         "*.embeddedhtml": "html",
         "__split_buffer": "cpp",
         "vector": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
